@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://fpgdesa.github.io
+title: Madrigal da Ciência
+tagline: Engenharia e Ciência em dia
+description: Blog sobre Ciênca, Engenharia e Tecnologia.
+paginate: 5
