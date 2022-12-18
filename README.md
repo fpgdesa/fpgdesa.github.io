@@ -1,52 +1,66 @@
-<h1>Flexton is an ultra-minimalist and responsive theme for Jekyll</h1>
+## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
-<p>Flexton created especially for those who appreciate minimalism and functionality.</p>
-<p>Amazing flexibility with pleasant colors and custom design makes Flexton a simple theme, suitable for almost any blog.</p>
+# Newsletter: Stay in Touch for Future Updates
 
-<h2>Demo</h2>
+If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
 
-Check the theme in action [Demo](https://flexton.netlify.com/)
+[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
 
-![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
 
-<h2>Features</h2>
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-<ul>
-	<li>100% responsive and clean theme</li>
- 	<li>Optimized for mobile devices</li>
-	<li>Valid HTML5 code</li>
-	<li>Included site search</li>
-	<li>Contact Page</li>
-	<li>Post sharing</li>
-	<li>Supports Mail Chimp Subscriber</li>
-	<li>Supports Disqus Comments</li>
-	<li>Social Media Profiles</li>
-	<li>Contact Form - FormsPree</li>
-	<li>Evil Icons</li>
-	<li>Google Fonts</li>
-</ul>
+## A Responsive Jekyll Theme: *Feeling Responsive*
 
-<h2>Credits</h2>
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
 
-<p>I have used the following scripts, fonts or other files as listed.</p>
+To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
-<ul>
-  <li><a href="https://fonts.google.com/">Google Fonts</a> (Volkhov, Open Sans).</li>
-  <li><a href="http://evil-icons.io/">Evil Icons</a></li>
-  <li><a href="http://fitvidsjs.com/">FitVids.js</a></li>
-  <li><a href="https://jquery.com/">jQuery.com</a></li>
-  <li><a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a></li>
-  <li>Preview Images form <a href="https://unsplash.com/">unsplash.com</a>, <a href="https://www.pexels.com/">pexels.com</a></li>
-</ul>
+And what license is *Feeling Responsive* released under? [This one][2].
 
-<h2>Deployment</h2>
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec serve` to start the Jekyll server.
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+## Why use this theme?
 
-<h2>Buy me a coffee</h2>
+Feeling Responsive is heavily customizable.
 
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b></p>
+1. Language-Support :)
+2. Optimized for speed and it's responsive.
+3. Built on Foundation Framework.
+4. Six different Headers.
+5. Customizable navigation, footer,...
+
+**[More ›][3]**
+
+
+
+## Changelog
+
+*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
+
+**[Read Changelog ›][6]**
+
+
+
+## Video Tutorial
+
+Click the image to [watch the YouTube-Video-Tutorial][4].
+
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+
+
+
+
+
+
+
+
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
+ [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [3]: http://phlow.github.io/feeling-responsive/info/
+ [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [5]: https://github.com/TWiStErRob
+ [6]: https://phlow.github.io/feeling-responsive/changelog/
+ [7]: http://phlow.github.io/feeling-responsive/
+ [8]: http://phlow.github.io/simplicity/
+ [9]: #
+ [10]: #
