@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Must read books for programmers
+title: teste
 image: 6.jpg
-date: 2018-02-06 10:23:20 +0200
+date: 2022-02-06 10:23:20 +0200
 tags: [books, rest]
 categories: books
 ---
