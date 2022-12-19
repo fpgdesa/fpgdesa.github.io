@@ -1,7 +1,7 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/fpgdesa
   class: icon-github
-  title: Code und mehr...
+  title: Acesso nosso repositório no GitHub
 
 - name: YouTube
   url: http://www.youtube.com/PhlowMedia
@@ -11,12 +11,12 @@
 - name: Twitter
   url: http://twitter.com/phlow
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Conheça nosso perfil no Twitter!"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
