@@ -1,4 +1,4 @@
-- title: Start
+- title: Início
   url: "/"
   side: left
 
@@ -11,10 +11,10 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Arquivo"
     url: "/blog/archive/"
 
 
-- title: "Contact"
+- title: "Contato"
   url: "/contact/"
   side: right
